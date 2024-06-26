@@ -31,4 +31,3 @@ if __name__ == "__main__":
 
     for title in title_list:
         print("\t {}".format(title))
-
